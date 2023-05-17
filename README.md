@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">My name is Claudio Araya and I am a computer engineering student.</p>
+
+###
+
 <p align="left">📚 I’m currently interested in data science.</p>
 
 ###
