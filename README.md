@@ -1,16 +1,16 @@
-<h2 align="left">About me</h2>
+## About me
 
 ###
 
-<p align="left">Hi👋 my name is Claudio</p>
+Hi 👋 my name is Claudio
 
 ###
 
-<p align="left">📚 I’m currently interested in data science.</p>
+📚 I’m currently interested in data science.
 
 ###
 
-<h2 align="left">Skills</h2>
+## ⚙️ Technologies & Tools
 
 ###
 
@@ -19,19 +19,12 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-###
-
-<h2 align="left">Databases</h2>
-
-###
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ###
 
-<h2 align="left">Learning</h2>
+## Learning
 
 ###
 
