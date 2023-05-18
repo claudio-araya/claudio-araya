@@ -1,11 +1,5 @@
 <h2 align="left">About me</h2>
 
-###
-
-<p align="left">My name is Claudio Araya, and I am a student of Civil Engineering in Computer Science.</p>
-
-###
-
 <p align="left">📚 I’m currently interested in data science.</p>
 
 ###
