@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Claudio Araya and I am a computer engineering student.</p>
+<p align="left">My name is Claudio Araya, and I am a student of Civil Engineering in Computer Science.</p>
 
 ###
 
