@@ -29,9 +29,3 @@ Hi 👋 my name is Claudio
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=claudio-araya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
