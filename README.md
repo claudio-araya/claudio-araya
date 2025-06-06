@@ -8,4 +8,4 @@
 
 - 🎓 Computer Science graduate specialized in software development, with a deep interest in everything data-related from data analysis and pipelines to cloud-based data architecture.
 - 📊 Focused on building reliable, scalable, and efficient data systems.
-- 🚀 Currently preparing for the **Microsoft Certified: Azure Data Fundamentals** and **Azure Data Engineer Associate** certifications.
+- 🚀 Currently preparing for the **Microsoft Certified: Azure Data Fundamentals** and **Fabric Analytics Engineer Associate** certifications.
