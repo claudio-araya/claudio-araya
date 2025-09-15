@@ -7,4 +7,4 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science graduate specialized in software development.
-- 🚀 Currently preparing for the **Microsoft Certified: Azure Data Fundamentals** and **Fabric Analytics Engineer Associate** certifications.
+- 🚀 Currently preparing for the **Microsoft Certified: Azure Data Fundamentals** certification.
