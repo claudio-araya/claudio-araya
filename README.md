@@ -3,7 +3,10 @@
 <p align="center">
   Passionate about data and technology.
 </p>
+<br>
+<p align="center">
+  🎓 Computer Science graduate specialized in software development.
+</p>
+  
 
-## 👨‍💻 About Me
 
-- 🎓 Computer Science graduate specialized in software development.
