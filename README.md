@@ -7,4 +7,3 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science graduate specialized in software development.
-- 🚀 Currently preparing for the **Microsoft Certified: Azure Data Fundamentals** certification.
